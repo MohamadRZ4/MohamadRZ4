@@ -1,4 +1,4 @@
-# Hi there, I'm [MohamadRZ4] 👋
+# Hi there, I'm MohamadRZ4 👋
 
 I am a **Website Designer** and **PocketMine Developer** with a passion for creating immersive and engaging digital experiences. From stunning websites to exciting Minecraft plugins, I specialize in bringing ideas to life through innovative design and development.
 
