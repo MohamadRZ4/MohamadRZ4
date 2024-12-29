@@ -14,7 +14,7 @@ I am a **Website Designer** and **PocketMine Developer** with a passion for crea
 
 ## Projects
 Here are some of my notable projects:
-- **Odyssey Adventure Server**: A custom Minecraft server with a focus on dungeons, progression, and cosmetics. click here[https://github.com/OdysseyBE/]
+- **Odyssey Adventure Server**: A custom Minecraft server with a focus on dungeons, progression, and cosmetics. [click here](https://github.com/OdysseyBE/)
 - **PlaceholderAPI**
 
 ## Let's Connect
