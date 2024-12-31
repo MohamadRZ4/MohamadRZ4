@@ -9,7 +9,7 @@ I am a **Website Designer** and **PocketMine Developer** with a passion for crea
   
 ## Technologies & Tools
 - **Web Development**: HTML, CSS, JavaScript, PHP
-- **Minecraft Plugins**: PHP, PocketMine
+- **Minecraft Plugins**: PHP, PocketMine, Nukkit, Java
 - **Databases**: MySQL, SQLite
 
 ## Projects
